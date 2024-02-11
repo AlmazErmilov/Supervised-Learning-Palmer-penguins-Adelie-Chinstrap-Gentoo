@@ -7,5 +7,6 @@ In this assignment I will use 2 different variants of supervised learning to try
 The figure below shows different variants of scatterplots for the four numerical quantities in the dataset: bill_length_mm, bill_depth_mm, flipper_length_mm, body_mass_g
 <img width="1186" alt="image" src="https://github.com/AlmazErmilov/Supervised-Learning-Palmer-penguins-Adelie-Chinstrap-Gentoo/assets/64559090/74dd1ff4-373f-4753-913b-c8fab6eddc3d">
 
-
 The plots show all pairwise combinations of these four. The diagonal shows histograms for single sizes. Notice how some combinations give point clouds where the three classes (penguin species) overlap a lot, while other combinations give better separation.
+
+### Check full report in English and Norwegian in this repo: 📄Supervised-Learning-Palmer-penguins_Report[ENG].pdf and 📄Supervised-Learning-Palmer-penguins_Report[NO].pdf
